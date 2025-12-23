@@ -1,6 +1,6 @@
 ```
 $ whoami
-I am a self-driven Developer based in APAC. At 24, I decided to pivot away from formal academia to pursue a more hands-on, accelerated path in software development. 
+I am a self-driven Developer based in Earth. At 24, I decided to pivot away from formal academia to pursue a more hands-on, accelerated path in software development. 
 I specialize in Javascripts and thrive in environments that value **output** and **problem-solving** over credentials.
 
 $ to do

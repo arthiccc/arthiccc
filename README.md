@@ -25,3 +25,5 @@ Currently sleeping.
 | **RAM** | 8 GB DDR4 |
 | **Storage** | 128 GB SSD |
 | **DE** | Xfce 4.18 |
+
+![My Certs](images/STUPID.webp)

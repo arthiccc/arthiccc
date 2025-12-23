@@ -26,4 +26,4 @@ Currently sleeping.
 | **Storage** | 128 GB SSD |
 | **DE** | Xfce 4.18 |
 
-![My Certs](images/STUPID.webp)
+![My Certs](STUPID.webp)

@@ -1,3 +1,5 @@
+[![My Scripts on GreasyFork](https://img.shields.io/badge/My%20Scripts-GreasyFork-red?style=for-the-badge)](https://greasyfork.org/en/users/1543024-arthiccc)
+
 ```
 $ whoami
 I am a self-driven Developer based in Earth. At 24, I decided to pivot away from formal academia to pursue a more hands-on, accelerated path in software development. 
@@ -11,9 +13,6 @@ $ to do
 $ status
 Currently sleeping. 
 ```
-
-Myscripts
-https://greasyfork.org/en/users/1543024-arthiccc
 
 ### My Setup
 
